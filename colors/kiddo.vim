@@ -25,7 +25,7 @@ hi	DiffChange	ctermbg=236		guibg=#474646
 hi	DiffDelete	ctermbg=236		cterm=bold		gui=bold		guibg=#474646
 hi	DiffText	ctermbg=236		ctermfg=82		cterm=bold		gui=bold	guibg=#474646	guifg=#78EC3B
 hi	ErrorMsg	ctermfg=255		ctermbg=160		guifg=#FFFFFF	guifg=#D83528
-hi	VertSplit	ctermbg=0		ctermfg=70		guibg=#000000	guifg=#7BB632
+hi	VertSplit	ctermbg=0		ctermfg=33		guibg=#000000	guifg=#7159FF
 hi	Folded		ctermfg=69		guifg=#76A1F8
 hi	FoldColumn	ctermfg=69		guifg=#76A1F8
 hi	SignColumn	ctermfg=63		guifg=#76A1F8
