@@ -59,13 +59,13 @@ hi	Tooltip		gui=bold
 ""	general syntax highlighting
 hi	Comment		cterm=NONE		ctermfg=243		gui=NONE	guifg=#8E8E8E
 hi	Constant	cterm=bold		ctermfg=161		gui=bold	guifg=#DA3D7A
-hi	String		cterm=NONE		ctermfg=40		gui=NONE	guifg=#09D62C
-hi	Character	cterm=NONE		ctermfg=40		gui=NONE	guifg=#09D62C
+hi	String		cterm=NONE		ctermfg=76		gui=NONE	guifg=#09D62C
+hi	Character	cterm=NONE		ctermfg=76		gui=NONE	guifg=#09D62C
 hi	Number		cterm=bold		ctermfg=161		gui=bold	guifg=#DA3D7A
 hi	Boolean		cterm=bold		ctermfg=161		gui=bold	guifg=#DA3D7A
 hi	Float		cterm=bold		ctermfg=161		gui=bold	guifg=#DA3D7A
-hi	Identifier	cterm=bold		ctermfg=214		gui=bold	guifg=#F3B83F
-hi	Function	cterm=NONE		ctermfg=158		gui=NONE	guifg=#BEF9DE
+hi	Identifier	cterm=NONE		ctermfg=255		gui=bold	guifg=#F3B83F
+hi	Function	cterm=NONE		ctermfg=84		gui=NONE	guifg=#BEF9DE
 hi	Statement	cterm=bold		ctermfg=165		gui=bold	guifg=#DD50F8
 hi	Conditional	cterm=bold		ctermfg=165		gui=bold	guifg=#DD50F8
 hi	Repeat		cterm=bold		ctermfg=165		gui=bold	guifg=#DD50F8
@@ -84,7 +84,7 @@ hi	Structure	cterm=bold		ctermfg=33		gui=bold	guifg=#159FF8
 hi	Typedef		cterm=bold		ctermfg=33		gui=bold	guifg=#159FF8
 hi	Special		cterm=bold		ctermfg=214		gui=bold	guifg=#F3B83F
 hi	SpecialChar	cterm=bold		ctermfg=214		gui=bold	guifg=#F3B83F
-hi	Tag			cterm=bold		ctermfg=214		gui=bold	guifg=#F3B83F
+hi	Tag			cterm=bold		ctermfg=255		gui=bold	guifg=#F3B83F
 hi	Delimiter	cterm=bold		ctermfg=214		gui=bold	guifg=#F3B83F
 hi	SpecialComment	cterm=bold	ctermfg=33		gui=bold	guifg=#159FF8
 hi	Debug		cterm=bold		ctermfg=161		gui=bold	guifg=#DA3D7A
